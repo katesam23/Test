@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("master2 commit");
+        System.out.println("master");
     }
 }
